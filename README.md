@@ -3,7 +3,7 @@ Memory Game
 
 This repository contains a simple and interactive Memory Game built with HTML, CSS, and JavaScript. The game aims to test and enhance the user's memory skills.
 
-![Memory Game Demo](https://github.com/username/repository/blob/main/images/demo.gif)
+![Memory Game Demo](https://github.com/ajinsunny/memorygame/blob/master/memorygame.gif)
 
 
 How to Play
