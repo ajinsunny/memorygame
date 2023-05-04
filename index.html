@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Memory Game</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <h1>Memory Game</h1>
+  <div>
+    <input type="range" id="slider" name="volume" min="3" max="11">
+    <label for="volume">Difficulty</label>
+  </div>
+  
+  <div id="winMessage" style="display: none;">You won!</div>
+  <div id="lossMessage" style="display: none;">You lost!</div>
+
+
+  <button onclick="startGame()">Start</button>
+  <div id="grid"></div>
+  
+  <script src="script.js"></script>
+</body>
+</html>
